@@ -1,4 +1,4 @@
-webdata.db
+*.db
 *.log
 
 # Byte-compiled / optimized / DLL files
