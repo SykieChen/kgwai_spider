@@ -1,0 +1,357 @@
+2018-01-19 11:20:15 Test output, 123, str ()
+2018-01-19 11:20:33 Test output, 123, strkkk ()
+2018-01-19 11:20:53 Test output, 123, strkkk ()
+2018-01-19 11:21:01 Test output, 123, strkkk
+[2018-01-19 11:21:27] Test output, 123, strkkk
+[2018-01-19 11:23:22] Test output, 123, strkkk
+[2018-01-19 11:23:45] Test output, 123, strkkk
+[2018-01-19 11:24:35] Test output, 123, strkkk
+[2018-01-19 11:25:10] Test output, 123, strkkk
+[2018-01-19 11:25:49] Test output, 123, strkkk
+[2018-01-19 11:44:40] Test output, 123, strkkk
+[2018-01-19 12:07:28] Test output, 123, strkkk
+[2018-01-19 12:07:39] Test output, 123, strkkk
+[2018-01-19 12:07:41] Test output, 123, strkkk
+[2018-01-19 12:07:59] Test output, 123, strkkk
+[2018-01-19 12:08:28] Test output, 123, strkkk
+[2018-01-22 11:36:20] DB link success.
+[2018-01-22 11:39:08] DB link success.
+[2018-01-22 11:41:28] DB link success.
+[2018-01-22 11:41:40] DB link success.
+[2018-01-22 11:42:53] DB link success.
+[2018-01-22 11:47:20] DB link success.
+[2018-01-22 11:47:31] DB link success.
+[2018-01-22 11:48:09] DB link success.
+[2018-01-22 11:48:23] DB link success.
+[2018-01-22 11:48:23] sqlite_sequence
+[2018-01-22 11:49:15] DB link success.
+[2018-01-22 11:49:15] Getting page http://www.kguowai.com/all/index_2.html
+[2018-01-22 11:49:28] DB link success.
+[2018-01-22 11:49:28] sites
+[2018-01-22 11:49:28] Getting page http://www.kguowai.com/all/index_2.html
+[2018-01-22 11:49:29] Getting page http://www.kguowai.com/all/index_3.html
+[2018-01-22 11:49:29] Getting page http://www.kguowai.com/all/index_4.html
+[2018-01-22 11:49:29] Getting page http://www.kguowai.com/all/index_5.html
+[2018-01-22 11:49:30] Getting page http://www.kguowai.com/all/index_6.html
+[2018-01-22 11:49:30] Getting page http://www.kguowai.com/all/index_7.html
+[2018-01-22 11:49:30] Getting page http://www.kguowai.com/all/index_8.html
+[2018-01-22 11:49:31] Getting page http://www.kguowai.com/all/index_9.html
+[2018-01-22 11:49:45] DB link success.
+[2018-01-22 11:49:45] sites
+[2018-01-22 11:49:45] Getting page http://www.kguowai.com/all/index_2.html
+[2018-01-22 11:49:46] Getting page http://www.kguowai.com/all/index_3.html
+[2018-01-22 11:49:46] Getting page http://www.kguowai.com/all/index_4.html
+[2018-01-22 11:49:46] Getting page http://www.kguowai.com/all/index_5.html
+[2018-01-22 11:50:32] DB link success.
+[2018-01-22 11:50:32] sites
+[2018-01-22 11:50:32] Getting page http://www.kguowai.com/all/index_2.html
+[2018-01-22 11:50:33] Getting page http://www.kguowai.com/all/index_3.html
+[2018-01-22 11:50:33] Getting page http://www.kguowai.com/all/index_4.html
+[2018-01-22 11:50:33] Getting page http://www.kguowai.com/all/index_5.html
+[2018-01-22 11:51:14] DB link success.
+[2018-01-22 11:51:14] sites
+[2018-01-22 11:51:14] Getting page http://www.kguowai.com/all/index_2.html
+[2018-01-22 11:51:14] Getting page http://www.kguowai.com/all/index_3.html
+[2018-01-22 11:51:15] Getting page http://www.kguowai.com/all/index_4.html
+[2018-01-22 11:51:41] DB link success.
+[2018-01-22 11:51:41] sites
+[2018-01-22 11:51:42] Getting page http://www.kguowai.com/all/index_2.html
+[2018-01-22 11:51:42] Getting page http://www.kguowai.com/all/index_3.html
+[2018-01-22 11:52:45] DB link success.
+[2018-01-22 11:52:45] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 11:52:45] Getting page http://www.kguowai.com/all/index_2.html
+[2018-01-22 11:52:45] Getting page http://www.kguowai.com/all/index_3.html
+[2018-01-22 11:52:58] DB link success.
+[2018-01-22 11:52:58] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 11:52:58] Getting page http://www.kguowai.com/all/index_2.html
+[2018-01-22 11:52:58] Getting page http://www.kguowai.com/all/index_3.html
+[2018-01-22 11:52:59] Getting page http://www.kguowai.com/all/index_4.html
+[2018-01-22 11:54:03] DB link success.
+[2018-01-22 11:54:03] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 11:54:03] Getting page http://www.kguowai.com/all/index_2.html
+[2018-01-22 11:54:04] Getting page http://www.kguowai.com/all/index_3.html
+[2018-01-22 11:54:04] Getting page http://www.kguowai.com/all/index_4.html
+[2018-01-22 11:54:55] DB link success.
+[2018-01-22 11:54:55] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 11:54:55] Getting page http://www.kguowai.com/all/index_2.html
+[2018-01-22 11:54:55] Getting page http://www.kguowai.com/all/index_3.html
+[2018-01-22 11:54:56] Getting page http://www.kguowai.com/all/index_4.html
+[2018-01-22 11:55:35] DB link success.
+[2018-01-22 11:55:35] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 11:55:54] DB link success.
+[2018-01-22 11:55:54] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 12:51:27] DB link success.
+[2018-01-22 12:51:27] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 12:52:54] DB link success.
+[2018-01-22 12:52:54] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 12:53:32] DB link success.
+[2018-01-22 12:53:32] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 12:53:49] DB link success.
+[2018-01-22 12:53:49] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:00:48] DB link success.
+[2018-01-22 13:00:48] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:00:56] DB link success.
+[2018-01-22 13:00:56] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:01:12] DB link success.
+[2018-01-22 13:01:12] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:01:24] DB link success.
+[2018-01-22 13:01:24] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:02:40] DB link success.
+[2018-01-22 13:02:40] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:07:49] DB link success.
+[2018-01-22 13:07:49] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:08:02] DB link success.
+[2018-01-22 13:08:02] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:08:56] DB link success.
+[2018-01-22 13:08:56] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:11:22] DB link success.
+[2018-01-22 13:11:22] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:11:43] DB link success.
+[2018-01-22 13:11:43] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:12:33] DB link success.
+[2018-01-22 13:12:33] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:13:11] DB link success.
+[2018-01-22 13:13:11] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:15:14] DB link success.
+[2018-01-22 13:15:14] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:15:35] DB link success.
+[2018-01-22 13:15:35] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:15:45] DB link success.
+[2018-01-22 13:15:45] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:15:53] DB link success.
+[2018-01-22 13:15:53] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:17:06] DB link success.
+[2018-01-22 13:17:06] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:17:26] DB link success.
+[2018-01-22 13:17:26] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:17:34] DB link success.
+[2018-01-22 13:17:34] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:21:11] DB link success.
+[2018-01-22 13:21:11] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:21:27] DB link success.
+[2018-01-22 13:21:27] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:46:13] DB link success.
+[2018-01-22 13:46:13] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:46:20] DB link success.
+[2018-01-22 13:46:20] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:49:37] DB link success.
+[2018-01-22 13:49:37] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:49:56] DB link success.
+[2018-01-22 13:49:56] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:50:33] DB link success.
+[2018-01-22 13:50:33] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 13:51:01] DB link success.
+[2018-01-22 13:51:01] Getting page http://www.kguowai.com/all/index_928.html
+[2018-01-22 13:51:10] DB link success.
+[2018-01-22 13:51:10] Getting page http://www.kguowai.com/all/index_927.html
+[2018-01-22 14:01:23] DB link success.
+[2018-01-22 14:01:23] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:01:24] Processing link 1 in page 0
+[2018-01-22 14:01:24] Processing link 1 in page 1
+[2018-01-22 14:01:24] Processing link 1 in page 2
+[2018-01-22 14:01:25] Processing link 1 in page 3
+[2018-01-22 14:01:25] Processing link 1 in page 4
+[2018-01-22 14:01:26] Processing link 1 in page 5
+[2018-01-22 14:01:26] Processing link 1 in page 6
+[2018-01-22 14:01:26] Processing link 1 in page 7
+[2018-01-22 14:03:25] DB link success.
+[2018-01-22 14:03:25] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:03:25] Processing link 1 in page 0
+[2018-01-22 14:03:26] Processing link 1 in page 1
+[2018-01-22 14:03:26] Processing link 1 in page 2
+[2018-01-22 14:03:27] Processing link 1 in page 3
+[2018-01-22 14:03:27] Processing link 1 in page 4
+[2018-01-22 14:03:27] Processing link 1 in page 5
+[2018-01-22 14:03:27] Processing link 1 in page 6
+[2018-01-22 14:03:28] Processing link 1 in page 7
+[2018-01-22 14:03:55] DB link success.
+[2018-01-22 14:03:55] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:03:56] Processing link 1 in page 0
+[2018-01-22 14:03:56] Processing link 1 in page 1
+[2018-01-22 14:03:57] Processing link 1 in page 2
+[2018-01-22 14:03:57] Processing link 1 in page 3
+[2018-01-22 14:03:57] Processing link 1 in page 4
+[2018-01-22 14:03:58] Processing link 1 in page 5
+[2018-01-22 14:04:48] DB link success.
+[2018-01-22 14:04:48] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:04:49] Processing link 0 in page 1
+[2018-01-22 14:04:49] Processing link 1 in page 1
+[2018-01-22 14:04:49] Processing link 2 in page 1
+[2018-01-22 14:04:50] Processing link 3 in page 1
+[2018-01-22 14:06:12] DB link success.
+[2018-01-22 14:06:12] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:06:12] Processing link 0 in page 1
+[2018-01-22 14:06:35] DB link success.
+[2018-01-22 14:06:35] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:06:35] Processing link 0 in page 1
+[2018-01-22 14:06:35] Processing link 1 in page 1
+[2018-01-22 14:06:36] Processing link 2 in page 1
+[2018-01-22 14:06:36] Processing link 3 in page 1
+[2018-01-22 14:06:36] Processing link 4 in page 1
+[2018-01-22 14:06:36] Processing link 5 in page 1
+[2018-01-22 14:06:37] Processing link 6 in page 1
+[2018-01-22 14:06:49] DB link success.
+[2018-01-22 14:06:49] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:06:49] Processing link 0 in page 1
+[2018-01-22 14:06:49] Processing link 1 in page 1
+[2018-01-22 14:06:50] Processing link 2 in page 1
+[2018-01-22 14:06:50] Processing link 3 in page 1
+[2018-01-22 14:06:50] Processing link 4 in page 1
+[2018-01-22 14:06:56] DB link success.
+[2018-01-22 14:06:56] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:06:57] Processing link 0 in page 1
+[2018-01-22 14:06:57] Processing link 1 in page 1
+[2018-01-22 14:06:57] Processing link 2 in page 1
+[2018-01-22 14:07:13] DB link success.
+[2018-01-22 14:07:13] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:07:14] Processing link 0 in page 1
+[2018-01-22 14:07:22] DB link success.
+[2018-01-22 14:07:22] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:07:22] Processing link 0 in page 1
+[2018-01-22 14:07:23] Processing link 1 in page 1
+[2018-01-22 14:07:23] Processing link 2 in page 1
+[2018-01-22 14:07:24] Processing link 3 in page 1
+[2018-01-22 14:07:30] DB link success.
+[2018-01-22 14:07:30] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:07:31] Processing link 0 in page 1
+[2018-01-22 14:07:31] Processing link 1 in page 1
+[2018-01-22 14:08:42] DB link success.
+[2018-01-22 14:08:42] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:08:43] Processing link 0 in page 1
+[2018-01-22 14:08:43] Processing link 1 in page 1
+[2018-01-22 14:08:44] Processing link 2 in page 1
+[2018-01-22 14:08:44] Processing link 3 in page 1
+[2018-01-22 14:08:51] DB link success.
+[2018-01-22 14:08:51] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:08:52] Processing link 0 in page 1
+[2018-01-22 14:08:52] Processing link 1 in page 1
+[2018-01-22 14:08:52] Processing link 2 in page 1
+[2018-01-22 14:08:53] Processing link 3 in page 1
+[2018-01-22 14:08:53] Processing link 4 in page 1
+[2018-01-22 14:08:53] Processing link 5 in page 1
+[2018-01-22 14:10:33] DB link success.
+[2018-01-22 14:10:33] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:10:34] Processing link 0 in page 1
+[2018-01-22 14:10:34] Processing link 1 in page 1
+[2018-01-22 14:10:34] Processing link 2 in page 1
+[2018-01-22 14:10:34] Processing link 3 in page 1
+[2018-01-22 14:10:35] Processing link 4 in page 1
+[2018-01-22 14:10:35] Processing link 5 in page 1
+[2018-01-22 14:10:35] Processing link 6 in page 1
+[2018-01-22 14:10:36] Processing link 7 in page 1
+[2018-01-22 14:10:36] Processing link 8 in page 1
+[2018-01-22 14:10:36] Processing link 9 in page 1
+[2018-01-22 14:11:21] DB link success.
+[2018-01-22 14:11:21] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:11:21] Processing link 0 in page 1
+[2018-01-22 14:11:21] http://www.kguowai.com/html/32414.html
+[2018-01-22 14:11:21] Processing link 1 in page 1
+[2018-01-22 14:11:21] http://www.kguowai.com/html/32413.html
+[2018-01-22 14:11:22] Processing link 2 in page 1
+[2018-01-22 14:11:22] http://www.kguowai.com/html/32412.html
+[2018-01-22 14:11:22] Processing link 3 in page 1
+[2018-01-22 14:11:22] http://www.kguowai.com/html/32411.html
+[2018-01-22 14:11:22] Processing link 4 in page 1
+[2018-01-22 14:11:22] http://www.kguowai.com/html/32410.html
+[2018-01-22 14:11:22] Processing link 5 in page 1
+[2018-01-22 14:11:22] http://www.kguowai.com/html/32409.html
+[2018-01-22 14:11:24] Processing link 6 in page 1
+[2018-01-22 14:11:24] http://www.kguowai.com/html/32408.html
+[2018-01-22 14:11:24] Processing link 7 in page 1
+[2018-01-22 14:11:24] http://www.kguowai.com/html/32407.html
+[2018-01-22 14:11:25] Processing link 8 in page 1
+[2018-01-22 14:11:25] http://www.kguowai.com/html/32406.html
+[2018-01-22 14:11:25] Processing link 9 in page 1
+[2018-01-22 14:11:25] http://www.kguowai.com/html/32405.html
+[2018-01-22 14:12:54] DB link success.
+[2018-01-22 14:12:54] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:12:54] Processing link 0 in page 1
+[2018-01-22 14:12:54] http://www.kguowai.com/html/32414.html
+[2018-01-22 14:12:55] Processing link 1 in page 1
+[2018-01-22 14:12:55] http://www.kguowai.com/html/32413.html
+[2018-01-22 14:12:55] Processing link 2 in page 1
+[2018-01-22 14:12:55] http://www.kguowai.com/html/32412.html
+[2018-01-22 14:12:56] Processing link 3 in page 1
+[2018-01-22 14:12:56] http://www.kguowai.com/html/32411.html
+[2018-01-22 14:12:58] Processing link 4 in page 1
+[2018-01-22 14:12:58] http://www.kguowai.com/html/32410.html
+[2018-01-22 14:12:58] Processing link 5 in page 1
+[2018-01-22 14:12:58] http://www.kguowai.com/html/32409.html
+[2018-01-22 14:12:59] Processing link 6 in page 1
+[2018-01-22 14:12:59] http://www.kguowai.com/html/32408.html
+[2018-01-22 14:12:59] Processing link 7 in page 1
+[2018-01-22 14:12:59] http://www.kguowai.com/html/32407.html
+[2018-01-22 14:12:59] Processing link 8 in page 1
+[2018-01-22 14:12:59] http://www.kguowai.com/html/32406.html
+[2018-01-22 14:13:00] Processing link 9 in page 1
+[2018-01-22 14:13:00] http://www.kguowai.com/html/32405.html
+[2018-01-22 14:13:26] DB link success.
+[2018-01-22 14:13:26] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:13:26] Processing link 0 in page 1
+[2018-01-22 14:13:26] http://www.kguowai.com/html/32414.html
+[2018-01-22 14:13:26] Processing link 1 in page 1
+[2018-01-22 14:13:26] http://www.kguowai.com/html/32413.html
+[2018-01-22 14:13:27] Processing link 2 in page 1
+[2018-01-22 14:13:27] http://www.kguowai.com/html/32412.html
+[2018-01-22 14:13:27] Processing link 3 in page 1
+[2018-01-22 14:13:27] http://www.kguowai.com/html/32411.html
+[2018-01-22 14:13:27] Processing link 4 in page 1
+[2018-01-22 14:13:27] http://www.kguowai.com/html/32410.html
+[2018-01-22 14:13:27] Processing link 5 in page 1
+[2018-01-22 14:13:27] http://www.kguowai.com/html/32409.html
+[2018-01-22 14:13:28] Processing link 6 in page 1
+[2018-01-22 14:13:28] http://www.kguowai.com/html/32408.html
+[2018-01-22 14:13:28] Processing link 7 in page 1
+[2018-01-22 14:13:28] http://www.kguowai.com/html/32407.html
+[2018-01-22 14:13:28] Processing link 8 in page 1
+[2018-01-22 14:13:28] http://www.kguowai.com/html/32406.html
+[2018-01-22 14:13:29] Processing link 9 in page 1
+[2018-01-22 14:13:29] http://www.kguowai.com/html/32405.html
+[2018-01-22 14:19:02] DB link success.
+[2018-01-22 14:19:02] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:19:35] DB link success.
+[2018-01-22 14:19:35] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:19:36] Processing link 0 in page 1
+[2018-01-22 14:19:36] http://www.kguowai.com/html/32414.html
+[2018-01-22 14:19:36] Processing link 1 in page 1
+[2018-01-22 14:19:36] http://www.kguowai.com/html/32413.html
+[2018-01-22 14:19:36] Processing link 2 in page 1
+[2018-01-22 14:19:36] http://www.kguowai.com/html/32412.html
+[2018-01-22 14:19:37] Processing link 3 in page 1
+[2018-01-22 14:19:37] http://www.kguowai.com/html/32411.html
+[2018-01-22 14:19:44] DB link success.
+[2018-01-22 14:19:44] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:19:45] Processing link 0 in page 1
+[2018-01-22 14:19:45] http://www.kguowai.com/html/32414.html
+[2018-01-22 14:19:45] Processing link 1 in page 1
+[2018-01-22 14:19:45] http://www.kguowai.com/html/32413.html
+[2018-01-22 14:19:45] Processing link 2 in page 1
+[2018-01-22 14:19:45] http://www.kguowai.com/html/32412.html
+[2018-01-22 14:19:46] Processing link 3 in page 1
+[2018-01-22 14:19:46] http://www.kguowai.com/html/32411.html
+[2018-01-22 14:19:46] Processing link 4 in page 1
+[2018-01-22 14:19:46] http://www.kguowai.com/html/32410.html
+[2018-01-22 14:19:46] Processing link 5 in page 1
+[2018-01-22 14:19:46] http://www.kguowai.com/html/32409.html
+[2018-01-22 14:19:46] Processing link 6 in page 1
+[2018-01-22 14:19:46] http://www.kguowai.com/html/32408.html
+[2018-01-22 14:19:47] Processing link 7 in page 1
+[2018-01-22 14:19:47] http://www.kguowai.com/html/32407.html
+[2018-01-22 14:19:47] Processing link 8 in page 1
+[2018-01-22 14:19:47] http://www.kguowai.com/html/32406.html
+[2018-01-22 14:19:47] Processing link 9 in page 1
+[2018-01-22 14:19:47] http://www.kguowai.com/html/32405.html
+[2018-01-22 14:22:30] DB link success.
+[2018-01-22 14:22:30] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:22:30] Processing link 0 in page 1
+[2018-01-22 14:22:30] http://www.kguowai.com/html/32414.html
+[2018-01-22 14:22:31] Processing link 1 in page 1
+[2018-01-22 14:22:31] http://www.kguowai.com/html/32413.html
+[2018-01-22 14:22:31] Processing link 2 in page 1
+[2018-01-22 14:22:31] http://www.kguowai.com/html/32412.html
+[2018-01-22 14:22:31] Processing link 3 in page 1
+[2018-01-22 14:22:31] http://www.kguowai.com/html/32411.html
+[2018-01-22 14:22:32] Processing link 4 in page 1
+[2018-01-22 14:22:32] http://www.kguowai.com/html/32410.html
+[2018-01-22 14:22:32] Processing link 5 in page 1
+[2018-01-22 14:22:32] http://www.kguowai.com/html/32409.html
