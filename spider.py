@@ -37,7 +37,7 @@ def init_db():
         CREATE TABLE sites (
             id          INTEGER NOT NULL    PRIMARY KEY AUTOINCREMENT   UNIQUE,
             name        TEXT    NOT NULL,
-            url         TEXT    NOT NULL,
+            url         TEXT,
             country     TEXT,
             category    TEXT,
             description TEXT
@@ -79,7 +79,8 @@ if __name__ == "__main__":
             url_s = selector.xpath('//strong[text()="网址"]/../a[1]/@href')
             if len(url_s) == 0 :
                 url_s = selector.xpath('//strong[text()="外文网址"]/../a[1]/@href')
-            url = url_s[0]
+            if len(url_s) != 0: url = url_s[0]
+            else : url=""
             country = selector.xpath('//div[@id="position"]/a[3]/text()')[0]
             category = selector.xpath('//div[@id="position"]/text()')[3][3:]
             cate_end = category.find('>')
