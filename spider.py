@@ -6,6 +6,7 @@ import time
 import sys
 from html.parser import HTMLParser
 from lxml import etree
+import colorama
 
 ex_log = True
 base_url = "http://www.kguowai.com"
@@ -52,6 +53,7 @@ def write_db(name, url, country, category, description):
 
 
 if __name__ == "__main__":
+    colorama.init()
     init_db()
     nextpage = True
     pagenumber = 0

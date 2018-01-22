@@ -355,3 +355,12 @@
 [2018-01-22 14:22:32] http://www.kguowai.com/html/32410.html
 [2018-01-22 14:22:32] Processing link 5 in page 1
 [2018-01-22 14:22:32] http://www.kguowai.com/html/32409.html
+[2018-01-22 14:26:22] DB link success.
+[2018-01-22 14:26:22] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:26:22] Processing link 0 in page 1
+[2018-01-22 14:26:22] Processing link 1 in page 1
+[2018-01-22 14:26:23] Processing link 2 in page 1
+[2018-01-22 14:26:44] DB link success.
+[2018-01-22 14:26:44] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:26:45] Processing link 0 in page 1
+[2018-01-22 14:26:45] Processing link 1 in page 1
