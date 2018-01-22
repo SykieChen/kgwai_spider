@@ -8,14 +8,14 @@ from html.parser import HTMLParser
 from lxml import etree
 import colorama
 
-ex_log = True
+ex_log = False
 base_url = "http://www.kguowai.com"
 
 def log_out(content, *args):
     print(time.strftime('\033[32m[%Y-%m-%d %H:%M:%S]\033[0m ', time.localtime(time.time())) + content, *args)
     sys.stdout.flush()
     if ex_log:
-        f_log = open("log.txt", "a")
+        f_log = open("spider.log", "a")
         print(time.strftime('[%Y-%m-%d %H:%M:%S] ', \
             time.localtime(time.time())) + content, *args ,file = f_log)
         f_log.close()
