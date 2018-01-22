@@ -32,7 +32,9 @@ def init_db():
     for row in data:
         if (row[0]!='sqlite_sequence'):
             c.execute('DROP TABLE %s;' %row[0])
-    c.execute('DELETE FROM sqlite_sequence;')
+        else:
+            c.execute('DELETE FROM %s;' %row[0])
+
     c.execute('''
         CREATE TABLE sites (
             id          INTEGER NOT NULL    PRIMARY KEY AUTOINCREMENT   UNIQUE,
