@@ -47,8 +47,7 @@ def init_db():
 
 def write_db(name, url, country, category, description):
     conn.cursor().execute('INSERT INTO sites (name, url, country, category, description)\
-        VALUES (\'%s\', \'%s\', \'%s\', \'%s\', \'%s\')'\
-        % (name, url, country, category, description))
+        VALUES (?, ?, ?, ?, ?)', (name, url, country, category, description))
     conn.commit()
 
 
@@ -71,13 +70,16 @@ if __name__ == "__main__":
         hrefs = selector.xpath('//div[@id="list_main"]/div/div/h2/a/@href')
         for index, href in enumerate(hrefs):
             log_out("Processing link %d in page %d" % (index, pagenumber))
-            # log_out(href)
+            log_out(href)
             r = requests.get(href)
             r.encoding = 'gb2312'
             html = r.text
             selector = etree.HTML(html)
             name = selector.xpath('//strong[text()="名称"]/../h1/text()')[0]
-            url = selector.xpath('//strong[text()="网址"]/../a[1]/@href')[0]
+            url_s = selector.xpath('//strong[text()="网址"]/../a[1]/@href')
+            if len(url_s) == 0 :
+                url_s = selector.xpath('//strong[text()="外文网址"]/../a[1]/@href')
+            url = url_s[0]
             country = selector.xpath('//div[@id="position"]/a[3]/text()')[0]
             category = selector.xpath('//div[@id="position"]/text()')[3][3:]
             cate_end = category.find('>')
@@ -90,4 +92,6 @@ if __name__ == "__main__":
 
 
         nextpage = (len(selector.xpath('//li[@class="next"]/a/text()'))==0)
+
+    conn.close()
     

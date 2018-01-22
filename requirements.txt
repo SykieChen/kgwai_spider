@@ -1,3 +1,4 @@
 colorama
 urlparse2
 lxml
+MySQLdb

@@ -364,3 +364,390 @@
 [2018-01-22 14:26:44] Getting page http://www.kguowai.com/all/index.html
 [2018-01-22 14:26:45] Processing link 0 in page 1
 [2018-01-22 14:26:45] Processing link 1 in page 1
+[2018-01-22 14:34:31] DB link success.
+[2018-01-22 14:34:31] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:34:31] Processing link 0 in page 1
+[2018-01-22 14:34:31] Processing link 1 in page 1
+[2018-01-22 14:34:32] Processing link 2 in page 1
+[2018-01-22 14:34:32] Processing link 3 in page 1
+[2018-01-22 14:34:32] Processing link 4 in page 1
+[2018-01-22 14:34:33] Processing link 5 in page 1
+[2018-01-22 14:34:33] Processing link 6 in page 1
+[2018-01-22 14:34:33] Processing link 7 in page 1
+[2018-01-22 14:34:33] Processing link 8 in page 1
+[2018-01-22 14:34:34] Processing link 9 in page 1
+[2018-01-22 14:34:34] Processing link 10 in page 1
+[2018-01-22 14:34:34] Processing link 11 in page 1
+[2018-01-22 14:34:35] Processing link 12 in page 1
+[2018-01-22 14:34:35] Processing link 13 in page 1
+[2018-01-22 14:34:35] Processing link 14 in page 1
+[2018-01-22 14:34:37] Processing link 15 in page 1
+[2018-01-22 14:34:37] Processing link 16 in page 1
+[2018-01-22 14:34:37] Processing link 17 in page 1
+[2018-01-22 14:34:37] Processing link 18 in page 1
+[2018-01-22 14:34:38] Processing link 19 in page 1
+[2018-01-22 14:34:38] Processing link 20 in page 1
+[2018-01-22 14:34:38] Processing link 21 in page 1
+[2018-01-22 14:36:07] DB link success.
+[2018-01-22 14:36:07] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:36:07] Processing link 0 in page 1
+[2018-01-22 14:36:08] INSERT INTO sites (name, url, country, category, description)        VALUES ('Sunsweet Growers', 'http://www.sunsweet.com/', '美国', '美食', 'Sunsweet Growers Incorporated是一家美国农业营销合作社，成立于1917年，是加州西梅和杏种植者协会，总部位于美国加州尤巴市。公司经营着世界上最大的干果工厂。
+
+Sunsweet生产各种干果和果汁产品，并以梅干闻名。公司生产和销售李子，蔓越莓，杏，油桃，菠萝，芒果和海枣。')
+[2018-01-22 14:36:08] Processing link 1 in page 1
+[2018-01-22 14:36:08] INSERT INTO sites (name, url, country, category, description)        VALUES ('Sunrise Senior Living', 'http://www.sunriseseniorliving.com/', '美国', '健康', 'Sunrise Senior Living是美国一家提供辅助生活和养老院的公司。截至2017年，公司在美国，加拿大和英国拥有超过315个辅助生活设施，成为美国第五大高级生活提供商。
+
+Sunrise Senior Living总部位于美国华盛顿特区麦克莱恩，雇用约32000名员工。公司提供高级生活服务，包括独立生活，辅助生活，照顾患有阿尔茨海默病和其他记忆丧失症，以及提供护理和康复服务。
+
+1981年，弗吉尼亚州奥克顿创始人Paul和Terry Klaassen创办第一个Sunrise社区。2014年4月，Chris Winkle被任命为Sunrise首席执行官。
+
+2014年8月，Sunrise Senior Living收购Health Care REIT，Inc.（HCN）旗下Gracewell Healthcare管理公司。')
+[2018-01-22 14:36:08] Processing link 2 in page 1
+[2018-01-22 14:36:09] INSERT INTO sites (name, url, country, category, description)        VALUES ('太阳石油公司', 'https://www.sunoco.com/', '美国', '能源', '太阳石油公司（Sunoco）是一家美国石油和石化制造商，总部位于美国宾夕法尼亚州新镇广场，前身为Sun Company Inc.（1886-1920和1976-1998）和Sun Oil Co.（1920-1976）。
+
+太阳石油公司是美国最大的汽油销售公司之一，汽油品牌在26个州的4700多个销售点和超过三分之一的托管便利店销售。自2012年起，它一直是位于美国得克萨斯州达拉斯Energy Transfer Partners全资子公司。
+
+截止2011年，太阳石油公司在宾夕法尼亚州收入排名第三位，仅次于美源伯根公司和康卡斯特之后。2011年，公司决定退出炼油业务。
+
+在加拿大，太阳石油公司品牌在2010年之前获得Suncor Energy安大略零售加油站许可。在森科尔收购加拿大石油公司之后，所有加拿大索诺科公司都转换为加拿大石油公司品牌。
+
+2017年，太阳石油公司宣布将1110家便利店以33亿美元价格出售给7-Eleven母公司Seven＆I Holdings Co.。此外，作为交易的一部分，太阳石油公司还表示将向7-Eleven便利店每年供应22亿加仑燃料，为期15年。
+
+2011年，太阳石油公司收入为445.8亿美元，净收入为16.8亿美元，总资产为119.8亿美元，共有10500名员工。')
+[2018-01-22 14:36:09] Processing link 3 in page 1
+[2018-01-22 14:36:10] INSERT INTO sites (name, url, country, category, description)        VALUES ('阳光少女', 'http://www.sunmaid.com/', '美国', '美食', '阳光少女（Sun-Maid）是一家美国葡萄干种植者私人拥有的合作社，总部位于美国加利福尼亚州金斯堡。它是世界上最大的葡萄干和干果加工商。
+
+作为一家合作社，阳光少女由约850名家庭农民组成，他们在100英里（160公里）范围内种植葡萄。公司还在这个地理区域之外发现干果。
+
+阳光少女葡萄是生长在加州中央山谷，在洛杉矶和旧金山之间，以其独特的地中海气候非常适合种植葡萄。葡萄采摘时间通常在8月下旬至9月上旬，在阳光下自然晒干。大约14天后，葡萄并交付给Sun-Maid工厂进行加工，包装和运输到遍布美国和全球60多个国家的客户。
+
+阳光少女每年生产超过2亿磅（9100万公斤）天然葡萄干。将近一半的葡萄干销给消费者；另一半作为面包店，谷物公司的葡萄干酱和葡萄干浓缩物成分出售。')
+[2018-01-22 14:36:10] Processing link 4 in page 1
+[2018-01-22 14:36:10] INSERT INTO sites (name, url, country, category, description)        VALUES ('Sun Capital Partners', 'http://www.suncappart.com/', '美国', '金融', 'Sun Capital Partners,Inc.是一家美国私人控股的全球投资公司，专注于杠杆收购，股权，债务和其他投资，总部位于美国佛罗里达州博卡拉顿市。
+
+Sun Capital Partners在全球投资超过345家公司，并在美国佛罗里达州博卡拉顿，洛杉矶和纽约设有办事处，并在英国伦敦和中国深圳设有分支机构。Sun European Partners,LLP是Sun Capital Partners，Inc.欧洲顾问。
+
+Sun Capital Partners管理约80亿美元资本，通常在收盘时提供全额收购价格融资，随后提供长期债务融资。Sun Capital目标是收入高达15亿美元以上的公司，销售额在5000万美元到5亿美元之间的企业。
+
+2017年，Sun Capital Partners收购BWGS，Arrow Tru-Line和Horizon Services。2017年，Sun European Partners,LLP子公司宣布达成销售NextPharma协议。
+
+2017年，Sun Capital Partners向Marubeni Corp.出售Creekstone Farms。2017年，公司收购AMES Taping Tools。2017年：Sun European Partners,LLP子公司收购C＆K Holdings，Inc.。')
+[2018-01-22 14:36:10] Processing link 5 in page 1
+[2018-01-22 14:36:10] INSERT INTO sites (name, url, country, category, description)        VALUES ('Bottecchia', 'http://www.bottecchia.com/', '意大利', '机械', 'Bottecchia Cicli S.r.l.是一家总部位于意大利卡瓦泽雷的自行车制造公司。公司制造约70种车型，包括公路，山地，徒步旅行，城市，BMX，折叠，十字交叉和电动。
+
+Bottecchia在意大利生产一些高端框架，其余的部件在亚洲生产，所有自行车都在意大利组装。公司产品销往欧洲，澳大利亚，日本和美国。
+
+Bottecchia是一家历史悠久的自行车公司，从小轮胎开始起步，并于1924年由Ottavio Bottecchia改进。1940年，Bottecchia员工人数达到100人。')
+[2018-01-22 14:36:10] Processing link 6 in page 1
+[2018-01-22 14:36:32] DB link success.
+[2018-01-22 14:36:32] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:36:32] Processing link 0 in page 1
+[2018-01-22 14:36:32] INSERT INTO sites (name, url, country, category, description)        VALUES ('Sunsweet Growers', 'http://www.sunsweet.com/', '美国', '美食', 'Sunsweet Growers Incorporated是一家美国农业营销合作社，成立于1917年，是加州西梅和杏种植者协会，总部位于美国加州尤巴市。公司经营着世界上最大的干果工厂。
+
+Sunsweet生产各种干果和果汁产品，并以梅干闻名。公司生产和销售李子，蔓越莓，杏，油桃，菠萝，芒果和海枣。')
+[2018-01-22 14:36:32] Processing link 1 in page 1
+[2018-01-22 14:36:33] INSERT INTO sites (name, url, country, category, description)        VALUES ('Sunrise Senior Living', 'http://www.sunriseseniorliving.com/', '美国', '健康', 'Sunrise Senior Living是美国一家提供辅助生活和养老院的公司。截至2017年，公司在美国，加拿大和英国拥有超过315个辅助生活设施，成为美国第五大高级生活提供商。
+
+Sunrise Senior Living总部位于美国华盛顿特区麦克莱恩，雇用约32000名员工。公司提供高级生活服务，包括独立生活，辅助生活，照顾患有阿尔茨海默病和其他记忆丧失症，以及提供护理和康复服务。
+
+1981年，弗吉尼亚州奥克顿创始人Paul和Terry Klaassen创办第一个Sunrise社区。2014年4月，Chris Winkle被任命为Sunrise首席执行官。
+
+2014年8月，Sunrise Senior Living收购Health Care REIT，Inc.（HCN）旗下Gracewell Healthcare管理公司。')
+[2018-01-22 14:36:33] Processing link 2 in page 1
+[2018-01-22 14:36:33] INSERT INTO sites (name, url, country, category, description)        VALUES ('太阳石油公司', 'https://www.sunoco.com/', '美国', '能源', '太阳石油公司（Sunoco）是一家美国石油和石化制造商，总部位于美国宾夕法尼亚州新镇广场，前身为Sun Company Inc.（1886-1920和1976-1998）和Sun Oil Co.（1920-1976）。
+
+太阳石油公司是美国最大的汽油销售公司之一，汽油品牌在26个州的4700多个销售点和超过三分之一的托管便利店销售。自2012年起，它一直是位于美国得克萨斯州达拉斯Energy Transfer Partners全资子公司。
+
+截止2011年，太阳石油公司在宾夕法尼亚州收入排名第三位，仅次于美源伯根公司和康卡斯特之后。2011年，公司决定退出炼油业务。
+
+在加拿大，太阳石油公司品牌在2010年之前获得Suncor Energy安大略零售加油站许可。在森科尔收购加拿大石油公司之后，所有加拿大索诺科公司都转换为加拿大石油公司品牌。
+
+2017年，太阳石油公司宣布将1110家便利店以33亿美元价格出售给7-Eleven母公司Seven＆I Holdings Co.。此外，作为交易的一部分，太阳石油公司还表示将向7-Eleven便利店每年供应22亿加仑燃料，为期15年。
+
+2011年，太阳石油公司收入为445.8亿美元，净收入为16.8亿美元，总资产为119.8亿美元，共有10500名员工。')
+[2018-01-22 14:36:33] Processing link 3 in page 1
+[2018-01-22 14:36:33] INSERT INTO sites (name, url, country, category, description)        VALUES ('阳光少女', 'http://www.sunmaid.com/', '美国', '美食', '阳光少女（Sun-Maid）是一家美国葡萄干种植者私人拥有的合作社，总部位于美国加利福尼亚州金斯堡。它是世界上最大的葡萄干和干果加工商。
+
+作为一家合作社，阳光少女由约850名家庭农民组成，他们在100英里（160公里）范围内种植葡萄。公司还在这个地理区域之外发现干果。
+
+阳光少女葡萄是生长在加州中央山谷，在洛杉矶和旧金山之间，以其独特的地中海气候非常适合种植葡萄。葡萄采摘时间通常在8月下旬至9月上旬，在阳光下自然晒干。大约14天后，葡萄并交付给Sun-Maid工厂进行加工，包装和运输到遍布美国和全球60多个国家的客户。
+
+阳光少女每年生产超过2亿磅（9100万公斤）天然葡萄干。将近一半的葡萄干销给消费者；另一半作为面包店，谷物公司的葡萄干酱和葡萄干浓缩物成分出售。')
+[2018-01-22 14:36:33] Processing link 4 in page 1
+[2018-01-22 14:36:34] INSERT INTO sites (name, url, country, category, description)        VALUES ('Sun Capital Partners', 'http://www.suncappart.com/', '美国', '金融', 'Sun Capital Partners,Inc.是一家美国私人控股的全球投资公司，专注于杠杆收购，股权，债务和其他投资，总部位于美国佛罗里达州博卡拉顿市。
+
+Sun Capital Partners在全球投资超过345家公司，并在美国佛罗里达州博卡拉顿，洛杉矶和纽约设有办事处，并在英国伦敦和中国深圳设有分支机构。Sun European Partners,LLP是Sun Capital Partners，Inc.欧洲顾问。
+
+Sun Capital Partners管理约80亿美元资本，通常在收盘时提供全额收购价格融资，随后提供长期债务融资。Sun Capital目标是收入高达15亿美元以上的公司，销售额在5000万美元到5亿美元之间的企业。
+
+2017年，Sun Capital Partners收购BWGS，Arrow Tru-Line和Horizon Services。2017年，Sun European Partners,LLP子公司宣布达成销售NextPharma协议。
+
+2017年，Sun Capital Partners向Marubeni Corp.出售Creekstone Farms。2017年，公司收购AMES Taping Tools。2017年：Sun European Partners,LLP子公司收购C＆K Holdings，Inc.。')
+[2018-01-22 14:36:34] Processing link 5 in page 1
+[2018-01-22 14:36:34] INSERT INTO sites (name, url, country, category, description)        VALUES ('Bottecchia', 'http://www.bottecchia.com/', '意大利', '机械', 'Bottecchia Cicli S.r.l.是一家总部位于意大利卡瓦泽雷的自行车制造公司。公司制造约70种车型，包括公路，山地，徒步旅行，城市，BMX，折叠，十字交叉和电动。
+
+Bottecchia在意大利生产一些高端框架，其余的部件在亚洲生产，所有自行车都在意大利组装。公司产品销往欧洲，澳大利亚，日本和美国。
+
+Bottecchia是一家历史悠久的自行车公司，从小轮胎开始起步，并于1924年由Ottavio Bottecchia改进。1940年，Bottecchia员工人数达到100人。')
+[2018-01-22 14:36:34] Processing link 6 in page 1
+[2018-01-22 14:37:24] DB link success.
+[2018-01-22 14:37:24] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:37:24] Processing link 0 in page 1
+[2018-01-22 14:37:25] Processing link 1 in page 1
+[2018-01-22 14:37:25] Processing link 2 in page 1
+[2018-01-22 14:37:25] Processing link 3 in page 1
+[2018-01-22 14:37:26] Processing link 4 in page 1
+[2018-01-22 14:37:26] Processing link 5 in page 1
+[2018-01-22 14:37:26] Processing link 6 in page 1
+[2018-01-22 14:37:26] Processing link 7 in page 1
+[2018-01-22 14:37:27] Processing link 8 in page 1
+[2018-01-22 14:37:27] Processing link 9 in page 1
+[2018-01-22 14:37:27] Processing link 10 in page 1
+[2018-01-22 14:37:28] Processing link 11 in page 1
+[2018-01-22 14:37:28] Processing link 12 in page 1
+[2018-01-22 14:37:28] Processing link 13 in page 1
+[2018-01-22 14:37:28] Processing link 14 in page 1
+[2018-01-22 14:37:29] Processing link 15 in page 1
+[2018-01-22 14:37:29] Processing link 16 in page 1
+[2018-01-22 14:37:29] Processing link 17 in page 1
+[2018-01-22 14:37:30] Processing link 18 in page 1
+[2018-01-22 14:37:30] Processing link 19 in page 1
+[2018-01-22 14:37:30] Processing link 20 in page 1
+[2018-01-22 14:37:31] Processing link 21 in page 1
+[2018-01-22 14:37:31] Processing link 22 in page 1
+[2018-01-22 14:37:31] Processing link 23 in page 1
+[2018-01-22 14:37:31] Processing link 24 in page 1
+[2018-01-22 14:37:32] Getting page http://www.kguowai.com/all/index_2.html
+[2018-01-22 14:37:32] Processing link 0 in page 2
+[2018-01-22 14:37:32] Processing link 1 in page 2
+[2018-01-22 14:37:33] Processing link 2 in page 2
+[2018-01-22 14:37:33] Processing link 3 in page 2
+[2018-01-22 14:37:33] Processing link 4 in page 2
+[2018-01-22 14:37:33] Processing link 5 in page 2
+[2018-01-22 14:37:41] DB link success.
+[2018-01-22 14:37:41] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:37:41] Processing link 0 in page 1
+[2018-01-22 14:37:41] http://www.kguowai.com/html/32414.html
+[2018-01-22 14:37:42] Processing link 1 in page 1
+[2018-01-22 14:37:42] http://www.kguowai.com/html/32413.html
+[2018-01-22 14:37:42] Processing link 2 in page 1
+[2018-01-22 14:37:42] http://www.kguowai.com/html/32412.html
+[2018-01-22 14:37:43] Processing link 3 in page 1
+[2018-01-22 14:37:43] http://www.kguowai.com/html/32411.html
+[2018-01-22 14:37:43] Processing link 4 in page 1
+[2018-01-22 14:37:43] http://www.kguowai.com/html/32410.html
+[2018-01-22 14:37:43] Processing link 5 in page 1
+[2018-01-22 14:37:43] http://www.kguowai.com/html/32409.html
+[2018-01-22 14:37:43] Processing link 6 in page 1
+[2018-01-22 14:37:43] http://www.kguowai.com/html/32408.html
+[2018-01-22 14:37:44] Processing link 7 in page 1
+[2018-01-22 14:37:44] http://www.kguowai.com/html/32407.html
+[2018-01-22 14:37:44] Processing link 8 in page 1
+[2018-01-22 14:37:44] http://www.kguowai.com/html/32406.html
+[2018-01-22 14:37:44] Processing link 9 in page 1
+[2018-01-22 14:37:44] http://www.kguowai.com/html/32405.html
+[2018-01-22 14:37:45] Processing link 10 in page 1
+[2018-01-22 14:37:45] http://www.kguowai.com/html/32404.html
+[2018-01-22 14:37:45] Processing link 11 in page 1
+[2018-01-22 14:37:45] http://www.kguowai.com/html/32403.html
+[2018-01-22 14:37:45] Processing link 12 in page 1
+[2018-01-22 14:37:45] http://www.kguowai.com/html/32402.html
+[2018-01-22 14:37:46] Processing link 13 in page 1
+[2018-01-22 14:37:46] http://www.kguowai.com/html/32401.html
+[2018-01-22 14:37:46] Processing link 14 in page 1
+[2018-01-22 14:37:46] http://www.kguowai.com/html/32400.html
+[2018-01-22 14:37:46] Processing link 15 in page 1
+[2018-01-22 14:37:46] http://www.kguowai.com/html/32399.html
+[2018-01-22 14:37:46] Processing link 16 in page 1
+[2018-01-22 14:37:46] http://www.kguowai.com/html/32398.html
+[2018-01-22 14:37:47] Processing link 17 in page 1
+[2018-01-22 14:37:47] http://www.kguowai.com/html/32397.html
+[2018-01-22 14:37:47] Processing link 18 in page 1
+[2018-01-22 14:37:47] http://www.kguowai.com/html/32396.html
+[2018-01-22 14:37:47] Processing link 19 in page 1
+[2018-01-22 14:37:47] http://www.kguowai.com/html/32395.html
+[2018-01-22 14:37:48] Processing link 20 in page 1
+[2018-01-22 14:37:48] http://www.kguowai.com/html/32394.html
+[2018-01-22 14:37:48] Processing link 21 in page 1
+[2018-01-22 14:37:48] http://www.kguowai.com/html/32393.html
+[2018-01-22 14:37:48] Processing link 22 in page 1
+[2018-01-22 14:37:48] http://www.kguowai.com/html/32392.html
+[2018-01-22 14:37:49] Processing link 23 in page 1
+[2018-01-22 14:37:49] http://www.kguowai.com/html/32391.html
+[2018-01-22 14:37:49] Processing link 24 in page 1
+[2018-01-22 14:37:49] http://www.kguowai.com/html/32390.html
+[2018-01-22 14:37:49] Getting page http://www.kguowai.com/all/index_2.html
+[2018-01-22 14:37:49] Processing link 0 in page 2
+[2018-01-22 14:37:49] http://www.kguowai.com/html/32389.html
+[2018-01-22 14:37:50] Processing link 1 in page 2
+[2018-01-22 14:37:50] http://www.kguowai.com/html/32388.html
+[2018-01-22 14:37:50] Processing link 2 in page 2
+[2018-01-22 14:37:50] http://www.kguowai.com/html/32387.html
+[2018-01-22 14:37:50] Processing link 3 in page 2
+[2018-01-22 14:37:50] http://www.kguowai.com/html/32386.html
+[2018-01-22 14:37:51] Processing link 4 in page 2
+[2018-01-22 14:37:51] http://www.kguowai.com/html/32385.html
+[2018-01-22 14:37:51] Processing link 5 in page 2
+[2018-01-22 14:37:51] http://www.kguowai.com/html/32384.html
+[2018-01-22 14:39:55] DB link success.
+[2018-01-22 14:39:55] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:39:55] Processing link 0 in page 1
+[2018-01-22 14:39:55] http://www.kguowai.com/html/32414.html
+[2018-01-22 14:40:13] DB link success.
+[2018-01-22 14:40:13] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:40:13] Processing link 0 in page 1
+[2018-01-22 14:40:14] http://www.kguowai.com/html/32414.html
+[2018-01-22 14:40:14] Processing link 1 in page 1
+[2018-01-22 14:40:14] http://www.kguowai.com/html/32413.html
+[2018-01-22 14:40:14] Processing link 2 in page 1
+[2018-01-22 14:40:14] http://www.kguowai.com/html/32412.html
+[2018-01-22 14:40:14] Processing link 3 in page 1
+[2018-01-22 14:40:14] http://www.kguowai.com/html/32411.html
+[2018-01-22 14:40:15] Processing link 4 in page 1
+[2018-01-22 14:40:15] http://www.kguowai.com/html/32410.html
+[2018-01-22 14:40:15] Processing link 5 in page 1
+[2018-01-22 14:40:15] http://www.kguowai.com/html/32409.html
+[2018-01-22 14:40:15] Processing link 6 in page 1
+[2018-01-22 14:40:15] http://www.kguowai.com/html/32408.html
+[2018-01-22 14:40:16] Processing link 7 in page 1
+[2018-01-22 14:40:16] http://www.kguowai.com/html/32407.html
+[2018-01-22 14:40:16] Processing link 8 in page 1
+[2018-01-22 14:40:16] http://www.kguowai.com/html/32406.html
+[2018-01-22 14:40:16] Processing link 9 in page 1
+[2018-01-22 14:40:16] http://www.kguowai.com/html/32405.html
+[2018-01-22 14:40:17] Processing link 10 in page 1
+[2018-01-22 14:40:17] http://www.kguowai.com/html/32404.html
+[2018-01-22 14:40:17] Processing link 11 in page 1
+[2018-01-22 14:40:17] http://www.kguowai.com/html/32403.html
+[2018-01-22 14:40:17] Processing link 12 in page 1
+[2018-01-22 14:40:17] http://www.kguowai.com/html/32402.html
+[2018-01-22 14:40:17] Processing link 13 in page 1
+[2018-01-22 14:40:17] http://www.kguowai.com/html/32401.html
+[2018-01-22 14:40:18] Processing link 14 in page 1
+[2018-01-22 14:40:18] http://www.kguowai.com/html/32400.html
+[2018-01-22 14:40:18] Processing link 15 in page 1
+[2018-01-22 14:40:18] http://www.kguowai.com/html/32399.html
+[2018-01-22 14:40:18] Processing link 16 in page 1
+[2018-01-22 14:40:18] http://www.kguowai.com/html/32398.html
+[2018-01-22 14:40:19] Processing link 17 in page 1
+[2018-01-22 14:40:19] http://www.kguowai.com/html/32397.html
+[2018-01-22 14:40:19] Processing link 18 in page 1
+[2018-01-22 14:40:19] http://www.kguowai.com/html/32396.html
+[2018-01-22 14:40:19] Processing link 19 in page 1
+[2018-01-22 14:40:19] http://www.kguowai.com/html/32395.html
+[2018-01-22 14:40:19] Processing link 20 in page 1
+[2018-01-22 14:40:19] http://www.kguowai.com/html/32394.html
+[2018-01-22 14:40:20] Processing link 21 in page 1
+[2018-01-22 14:40:20] http://www.kguowai.com/html/32393.html
+[2018-01-22 14:40:20] Processing link 22 in page 1
+[2018-01-22 14:40:20] http://www.kguowai.com/html/32392.html
+[2018-01-22 14:40:20] Processing link 23 in page 1
+[2018-01-22 14:40:20] http://www.kguowai.com/html/32391.html
+[2018-01-22 14:40:21] Processing link 24 in page 1
+[2018-01-22 14:40:21] http://www.kguowai.com/html/32390.html
+[2018-01-22 14:40:21] Getting page http://www.kguowai.com/all/index_2.html
+[2018-01-22 14:40:21] Processing link 0 in page 2
+[2018-01-22 14:40:21] http://www.kguowai.com/html/32389.html
+[2018-01-22 14:40:21] Processing link 1 in page 2
+[2018-01-22 14:40:21] http://www.kguowai.com/html/32388.html
+[2018-01-22 14:40:22] Processing link 2 in page 2
+[2018-01-22 14:40:22] http://www.kguowai.com/html/32387.html
+[2018-01-22 14:40:22] Processing link 3 in page 2
+[2018-01-22 14:40:22] http://www.kguowai.com/html/32386.html
+[2018-01-22 14:40:22] Processing link 4 in page 2
+[2018-01-22 14:40:22] http://www.kguowai.com/html/32385.html
+[2018-01-22 14:40:23] Processing link 5 in page 2
+[2018-01-22 14:40:23] http://www.kguowai.com/html/32384.html
+[2018-01-22 14:40:23] Processing link 6 in page 2
+[2018-01-22 14:40:23] http://www.kguowai.com/html/32383.html
+[2018-01-22 14:40:23] Processing link 7 in page 2
+[2018-01-22 14:40:23] http://www.kguowai.com/html/32382.html
+[2018-01-22 14:52:38] DB link success.
+[2018-01-22 14:52:38] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:52:39] Processing link 0 in page 1
+[2018-01-22 14:52:39] http://www.kguowai.com/html/32414.html
+[2018-01-22 14:54:55] DB link success.
+[2018-01-22 14:54:55] Getting page http://www.kguowai.com/all/index.html
+[2018-01-22 14:54:56] Processing link 0 in page 1
+[2018-01-22 14:54:56] http://www.kguowai.com/html/32414.html
+[2018-01-22 14:54:56] Processing link 1 in page 1
+[2018-01-22 14:54:56] http://www.kguowai.com/html/32413.html
+[2018-01-22 14:54:56] Processing link 2 in page 1
+[2018-01-22 14:54:56] http://www.kguowai.com/html/32412.html
+[2018-01-22 14:54:57] Processing link 3 in page 1
+[2018-01-22 14:54:57] http://www.kguowai.com/html/32411.html
+[2018-01-22 14:54:57] Processing link 4 in page 1
+[2018-01-22 14:54:57] http://www.kguowai.com/html/32410.html
+[2018-01-22 14:54:57] Processing link 5 in page 1
+[2018-01-22 14:54:57] http://www.kguowai.com/html/32409.html
+[2018-01-22 14:54:58] Processing link 6 in page 1
+[2018-01-22 14:54:58] http://www.kguowai.com/html/32408.html
+[2018-01-22 14:54:58] Processing link 7 in page 1
+[2018-01-22 14:54:58] http://www.kguowai.com/html/32407.html
+[2018-01-22 14:54:58] Processing link 8 in page 1
+[2018-01-22 14:54:58] http://www.kguowai.com/html/32406.html
+[2018-01-22 14:54:58] Processing link 9 in page 1
+[2018-01-22 14:54:58] http://www.kguowai.com/html/32405.html
+[2018-01-22 14:54:59] Processing link 10 in page 1
+[2018-01-22 14:54:59] http://www.kguowai.com/html/32404.html
+[2018-01-22 14:54:59] Processing link 11 in page 1
+[2018-01-22 14:54:59] http://www.kguowai.com/html/32403.html
+[2018-01-22 14:54:59] Processing link 12 in page 1
+[2018-01-22 14:54:59] http://www.kguowai.com/html/32402.html
+[2018-01-22 14:55:00] Processing link 13 in page 1
+[2018-01-22 14:55:00] http://www.kguowai.com/html/32401.html
+[2018-01-22 14:55:00] Processing link 14 in page 1
+[2018-01-22 14:55:00] http://www.kguowai.com/html/32400.html
+[2018-01-22 14:55:00] Processing link 15 in page 1
+[2018-01-22 14:55:00] http://www.kguowai.com/html/32399.html
+[2018-01-22 14:55:01] Processing link 16 in page 1
+[2018-01-22 14:55:01] http://www.kguowai.com/html/32398.html
+[2018-01-22 14:55:01] Processing link 17 in page 1
+[2018-01-22 14:55:01] http://www.kguowai.com/html/32397.html
+[2018-01-22 14:55:01] Processing link 18 in page 1
+[2018-01-22 14:55:01] http://www.kguowai.com/html/32396.html
+[2018-01-22 14:55:02] Processing link 19 in page 1
+[2018-01-22 14:55:02] http://www.kguowai.com/html/32395.html
+[2018-01-22 14:55:02] Processing link 20 in page 1
+[2018-01-22 14:55:02] http://www.kguowai.com/html/32394.html
+[2018-01-22 14:55:02] Processing link 21 in page 1
+[2018-01-22 14:55:02] http://www.kguowai.com/html/32393.html
+[2018-01-22 14:55:02] Processing link 22 in page 1
+[2018-01-22 14:55:02] http://www.kguowai.com/html/32392.html
+[2018-01-22 14:55:03] Processing link 23 in page 1
+[2018-01-22 14:55:03] http://www.kguowai.com/html/32391.html
+[2018-01-22 14:55:03] Processing link 24 in page 1
+[2018-01-22 14:55:03] http://www.kguowai.com/html/32390.html
+[2018-01-22 14:55:03] Getting page http://www.kguowai.com/all/index_2.html
+[2018-01-22 14:55:04] Processing link 0 in page 2
+[2018-01-22 14:55:04] http://www.kguowai.com/html/32389.html
+[2018-01-22 14:55:04] Processing link 1 in page 2
+[2018-01-22 14:55:04] http://www.kguowai.com/html/32388.html
+[2018-01-22 14:55:04] Processing link 2 in page 2
+[2018-01-22 14:55:04] http://www.kguowai.com/html/32387.html
+[2018-01-22 14:55:05] Processing link 3 in page 2
+[2018-01-22 14:55:05] http://www.kguowai.com/html/32386.html
+[2018-01-22 14:55:05] Processing link 4 in page 2
+[2018-01-22 14:55:05] http://www.kguowai.com/html/32385.html
+[2018-01-22 14:55:06] Processing link 5 in page 2
+[2018-01-22 14:55:06] http://www.kguowai.com/html/32384.html
+[2018-01-22 14:55:06] Processing link 6 in page 2
+[2018-01-22 14:55:06] http://www.kguowai.com/html/32383.html
+[2018-01-22 14:55:06] Processing link 7 in page 2
+[2018-01-22 14:55:06] http://www.kguowai.com/html/32382.html
+[2018-01-22 14:55:07] Processing link 8 in page 2
+[2018-01-22 14:55:07] http://www.kguowai.com/html/32381.html
+[2018-01-22 14:55:07] Processing link 9 in page 2
+[2018-01-22 14:55:07] http://www.kguowai.com/html/32380.html
+[2018-01-22 14:55:07] Processing link 10 in page 2
+[2018-01-22 14:55:07] http://www.kguowai.com/html/32379.html
+[2018-01-22 14:55:08] Processing link 11 in page 2
+[2018-01-22 14:55:08] http://www.kguowai.com/html/32378.html
+[2018-01-22 14:55:08] Processing link 12 in page 2
+[2018-01-22 14:55:08] http://www.kguowai.com/html/32377.html
+[2018-01-22 14:55:08] Processing link 13 in page 2
+[2018-01-22 14:55:08] http://www.kguowai.com/html/32376.html
+[2018-01-22 14:55:09] Processing link 14 in page 2
+[2018-01-22 14:55:09] http://www.kguowai.com/html/32375.html
+[2018-01-22 14:55:09] Processing link 15 in page 2
+[2018-01-22 14:55:09] http://www.kguowai.com/html/32374.html
