@@ -30,7 +30,8 @@ def init_db():
     c = conn.cursor()
     data = c.execute('SELECT name FROM sqlite_master;')
     for row in data:
-        if (row[0]!='sqlite_sequence'):
+        print(row)
+        if (row[0] != 'sqlite_sequence'):
             c.execute('DROP TABLE %s;' %row[0])
         else:
             c.execute('DELETE FROM %s;' %row[0])
@@ -71,27 +72,36 @@ if __name__ == "__main__":
         selector = etree.HTML(html)
         hrefs = selector.xpath('//div[@id="list_main"]/div/div/h2/a/@href')
         for index, href in enumerate(hrefs):
-            log_out("Processing link %d in page %d" % (index, pagenumber))
-            log_out(href)
-            r = requests.get(href)
-            r.encoding = 'gb2312'
-            html = r.text
-            selector = etree.HTML(html)
-            name = selector.xpath('//strong[text()="名称"]/../h1/text()')[0]
-            url_s = selector.xpath('//strong[text()="网址"]/../a[1]/@href')
-            if len(url_s) == 0 :
-                url_s = selector.xpath('//strong[text()="外文网址"]/../a[1]/@href')
-            if len(url_s) != 0: url = url_s[0]
-            else : url=""
-            country = selector.xpath('//div[@id="position"]/a[3]/text()')[0]
-            category = selector.xpath('//div[@id="position"]/text()')[3][3:]
-            cate_end = category.find('>')
-            category = category[:cate_end - 1]
-            description_s = selector.xpath('//div[@id="sitetext"]/text()')
-            description = ""
-            for description_m in description_s:
-                description += description_m
-            write_db(name, url, country, category, description)
+            retry = 5
+            while retry > 0:
+                try:
+                    log_out("Processing link %d in page %d" % (index, pagenumber))
+                    log_out(href)
+                    r = requests.get(href)
+                    r.encoding = 'gb2312'
+                    html = r.text
+                    selector = etree.HTML(html)
+                    name = selector.xpath('//strong[text()="名称"]/../h1/text()')[0]
+                    url_s = selector.xpath('//strong[text()="网址"]/../a[1]/@href')
+                    if len(url_s) == 0 :
+                        url_s = selector.xpath('//strong[text()="外文网址"]/../a[1]/@href')
+                    if len(url_s) != 0: url = url_s[0]
+                    else : url=""
+                    country = selector.xpath('//div[@id="position"]/a[3]/text()')[0]
+                    category = selector.xpath('//div[@id="position"]/text()')[3][3:]
+                    cate_end = category.find('>')
+                    category = category[:cate_end - 1]
+                    description_s = selector.xpath('//div[@id="sitetext"]/text()')
+                    description = ""
+                    for description_m in description_s:
+                        description += description_m
+                    write_db(name, url, country, category, description)
+                except:
+                    log_out("Error occured, retry.")
+                    retry -= 1
+                else:
+                    retry = 0
+
 
 
         nextpage = (len(selector.xpath('//li[@class="next"]/a/text()'))==0)
