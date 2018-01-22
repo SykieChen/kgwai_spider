@@ -10,6 +10,8 @@ import colorama
 
 ex_log = False
 base_url = "http://www.kguowai.com"
+ex_append = True
+start_page = 644
 
 def log_out(content, *args):
     print(time.strftime('\033[32m[%Y-%m-%d %H:%M:%S]\033[0m ', time.localtime(time.time())) + content, *args)
@@ -28,25 +30,26 @@ def init_db():
     conn = sqlite3.connect("webdata.db")
     log_out("DB link success.")
     c = conn.cursor()
-    data = c.execute('SELECT name FROM sqlite_master;')
-    for row in data:
-        print(row)
-        if (row[0] != 'sqlite_sequence'):
-            c.execute('DROP TABLE %s;' %row[0])
-        else:
-            c.execute('DELETE FROM %s;' %row[0])
+    if not ex_append:
+        data = c.execute('SELECT name FROM sqlite_master;')
+        for row in data:
+            print(row)
+            if (row[0] != 'sqlite_sequence'):
+                c.execute('DROP TABLE %s;' %row[0])
+            else:
+                c.execute('DELETE FROM %s;' %row[0])
 
-    c.execute('''
-        CREATE TABLE sites (
-            id          INTEGER NOT NULL    PRIMARY KEY AUTOINCREMENT   UNIQUE,
-            name        TEXT    NOT NULL,
-            url         TEXT,
-            country     TEXT,
-            category    TEXT,
-            description TEXT
-        );
-    ''')
-    conn.commit()
+        c.execute('''
+            CREATE TABLE sites (
+                id          INTEGER NOT NULL    PRIMARY KEY AUTOINCREMENT   UNIQUE,
+                name        TEXT    NOT NULL,
+                url         TEXT,
+                country     TEXT,
+                category    TEXT,
+                description TEXT
+            );
+        ''')
+        conn.commit()
 
 def write_db(name, url, country, category, description):
     conn.cursor().execute('INSERT INTO sites (name, url, country, category, description)\
@@ -58,7 +61,7 @@ if __name__ == "__main__":
     colorama.init()
     init_db()
     nextpage = True
-    pagenumber = 0
+    pagenumber = start_page - 1
     # walk pages
     while(nextpage):
         pagenumber += 1
